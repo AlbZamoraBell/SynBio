@@ -13,3 +13,9 @@ Esto nos dice que:
 Por lo que:
 
 ![Eq3](eq3.png)
+
+<img src="eq1.png" height=16>
+
+<img src="eq2.png" height=16>
+
+<img src="eq3.png" height=16>
