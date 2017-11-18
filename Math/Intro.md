@@ -1,4 +1,4 @@
-#Introducción
+# Introducción
 
 Supongamos dos posiciones en un eje: *X(t0)* y *X(t1)*. Donde *h* es el tiempo transcurrido entre ambas.
 
