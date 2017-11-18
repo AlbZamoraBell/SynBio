@@ -20,4 +20,4 @@ Este modelo de velocidad supone un incremento de manera uniforme. A lo largo de 
 
 <img src="Graf1.png">
 
-Aquí, la **V<sub>h</sub>(t)** solo describe un incremento constante en la velocidad. Si el verdadero incremento en la velocidad hubiera sido dado por la curva punteada de color rojo, entonces
+Aquí, la **V<sub>h</sub>(t)** solo describe un incremento constante en la velocidad. Si el verdadero incremento en la velocidad hubiera sido dado por la curva punteada de color rojo, entonces el modelo lineal de la velocidad no estaría cercano a la realidad.
