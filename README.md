@@ -1,4 +1,4 @@
-# SynBio
+# Biología Sintética
 Notas sobre el taller de Biología Sintética de la Facultad de Ciencias, UNAM.
 
 Se incluyen en cuatro categorías:
