@@ -1,2 +1,2 @@
 # SynBio
-Notes on a Neurobiology course in UNAM during 2017
+Notas sobre el taller de Biología Sintética de la Facultad de Ciencias, UNAM.
