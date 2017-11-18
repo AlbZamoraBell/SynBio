@@ -9,3 +9,7 @@ Esto sería descrito por:
 Esto nos dice que:
 
 ![Eq2](eq2.png)
+
+Por lo que:
+
+![Eq3](eq3.png)
