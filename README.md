@@ -23,8 +23,8 @@ Se incluyen en cuatro categorías:
 ## Miscelania
 
   Incluye notas y pensamientos sobre la naturaleza de la ciencia, el papel de la Biología Sintética en el mundo actual, y consideraciones de Bioética.
-  
-  
-Todas las secciones contienen comentarios de los profesores así como de los alumnos. A futuro se agregará probablemente una sección a parte sobre el proyecto del taller.
 
-Cabe mencionar que estos apuntes no son perfectos y se aceptan sugerencias. No son ningún reemplazo para las clases sino una ayuda para temas que pueden resultar un poco espinosos en algunas ocasiones. Nada de lo que se ve es de especial dificultad, principalmente porque los profesores son lo suficientemente claros en cada sesión, sin embargo en numerosas ocasiones un puede sentirse sobrecogido por la magnitud que pueden llegar a tener ciertos temas. Este repositorio tiene más que nada la intención de servir como una especie de mapa sobre lo que otros ya recorrimos, y que los que vienen después puedan ampliar.
+### Consideraciones extra
+  
+  Todas las secciones contienen comentarios de los profesores así como de los alumnos. A futuro se agregará probablemente una sección a parte sobre el proyecto del taller.
+  Cabe mencionar que estos apuntes no son perfectos y se aceptan sugerencias. No son ningún reemplazo para las clases sino una ayuda para temas que pueden resultar un poco espinosos en algunas ocasiones. Nada de lo que se ve es de especial dificultad, principalmente porque los profesores son lo suficientemente claros en cada sesión, sin embargo en numerosas ocasiones un puede sentirse sobrecogido por la magnitud que pueden llegar a tener ciertos temas. Este repositorio tiene más que nada la intención de servir como una especie de mapa sobre lo que otros ya recorrimos, y que los que vienen después puedan ampliar.
