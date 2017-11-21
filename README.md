@@ -10,7 +10,7 @@ Se incluyen en cuatro categorías:
 
 ## Matemáticas
 
-  Incluye conceptos básicos de *Probabilidad y estadstica*, *Sistemas Dinámicos* y ejercicios tanto en formato .nb (para _Mathematica_), como .txt.
+  Incluye conceptos básicos de *Probabilidad y estadstica*, *Sistemas Dinámicos*, *Ecuaciones diferenciales*, etc. Así como ejercicios tanto en formato .nb (para _Mathematica_), como .txt, y algunos scripts de R.
 
 ## Cómputo
 
