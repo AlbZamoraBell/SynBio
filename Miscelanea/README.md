@@ -1,1 +1,1 @@
-Sección dedicada a la parte de miscelanea del repositorio. Cosas más eclécticas y sin tanta relación a los temas de las otras tres secciones.
+Sección dedicada a la parte de miscelanea del repositorio. Cosas más eclécticas y sin tanta relación a los temas de las otras tres secciones. Exceptuando los ensayos sobre los transgénicos y la biología sintética, pues esos son temas tocados en las sesiones de bioética.
