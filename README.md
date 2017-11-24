@@ -14,7 +14,7 @@ Se incluyen en cuatro categorías:
 
 ## Cómputo
 
-  Una breve introducción a R y Python, materiales extras sobre el primero, y ejercicios en formato .txt y scripts .R.
+  Una breve introducción a R enfocado a la biologa (ecología, bioinformática, filogenética, etc), materiales extras, y ejercicios en formato .txt y scripts .R.
   
 ## Redes
 
