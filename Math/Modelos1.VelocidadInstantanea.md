@@ -1,4 +1,4 @@
-#### Ejemplo
+#### Derivada como velocidad instantanea
 
 Supongamos dos posiciones en un eje: *X(t<sub>0</sub>)* y *X(t<sub>1</sub>)*. Donde *h* es el tiempo total para ir de una a otra. O en otras palabras, el tiempo total (*h*) es igual al tiempo final (*t<sub>1</sub>*) menos el tiempo inicial (*t<sub>0</sub>*).
 
@@ -38,18 +38,4 @@ Usando una notación más simple podemos expresar la ecuación anterior como:
 
 <img src="https://github.com/AlbZamoraBell/SynBio/blob/master/Math/PNGs/deriv.png" height=30>
 
->Que se puede leer como "la derivada de x(t) con respecto al tiempo".
-
-##### En situaciones ideales
-
-La velocidad de crecimiento de una colonia bacteriana se puede considerar proporcional a la acantidad de bacterias en el tiempo *t*.
-
-*b(t)* es una cantidad de bacterias presentes al instante *t*. Y λ es una **constante de proporcionalidad.**
-
-Cuando *t*=0 el cultivo tiene *b*(0)=b<sub>0</sub> de bacterias. Pasada 1 hora (*b*(1)) hay *b*(1) bacterias. Es decir: λ(b<sub>0</sub>). Por lo que la velocidad de crecimiento de la colonia de bacterias satisface la ecuación:
-
-<img src="https://github.com/AlbZamoraBell/SynBio/blob/master/Math/PNGs/eq5.png" height=30>
-
-La cual es una ecuación diferencial ordinaria (ODE) de primer orden. Si sus valores iniciales son *b*(1)=3b<sub>0</sub>/2 se puede determinar el tiempo necesario para que las bacterias tripliquen su cantidad.
-
-Como esta es solo la *velocidad instantanea* del crecimiento de las bacterias, y queremos encontrarla en un periodo de tiempo mayor, recurrimos a la operación inversa de la derivada: la **integral**.
+Que se puede leer como "la derivada de x(t) con respecto al tiempo".
