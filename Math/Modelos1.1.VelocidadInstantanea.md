@@ -1,4 +1,4 @@
-#### Derivada como velocidad instantanea
+# Derivada como velocidad instantanea
 
 Supongamos dos posiciones en un eje: *X(t<sub>0</sub>)* y *X(t<sub>1</sub>)*. Donde *h* es el tiempo total para ir de una a otra. O en otras palabras, el tiempo total (*h*) es igual al tiempo final (*t<sub>1</sub>*) menos el tiempo inicial (*t<sub>0</sub>*).
 

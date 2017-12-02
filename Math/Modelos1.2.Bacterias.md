@@ -1,3 +1,5 @@
+# Crecimiento Bacteriano
+
 ##### En situaciones ideales
 
 La velocidad de crecimiento de una colonia bacteriana se puede considerar proporcional a la acantidad de bacterias en el tiempo *t*.
